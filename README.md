@@ -1,1 +1,1 @@
-# LeetCode_Solved_Problems
+In this repository, I have compiled my solutions to LeetCode questions.
